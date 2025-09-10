@@ -19,6 +19,14 @@ for (let i = 0; i < N; i++) {
   }
 }
 
+
+
+
+
+
+
+.3000000000000000000000000000000000000
+
 let result = [];
 const answer = [];
 function dfs(count) {
